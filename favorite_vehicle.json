@@ -1,0 +1,76 @@
+[
+    {
+        "make": "Toyota",
+        "model": "Corolla Hybrid",
+        "year": 2023,
+        "price": 26999.99,
+        "color": "Arctic White",
+        "features": [
+            "Toyota Safety Sense 3.0",
+            "Hybrid",
+            "All-Wheel Drive"
+        ],
+        "is_hybrid": true,
+        "owner": null
+    },
+    {
+        "make": "Ford",
+        "model": "Maveric Lariat Hybrid",
+        "year": 2026,
+        "price": 38999.99,
+        "color": "Azure Gray",
+        "features": [
+            "All-Wheel Drive",
+            "Hybrid",
+            "360-Degree Camera System",
+            "Adaptive Cruise Control"
+        ],
+        "is_hybrid": true,
+        "owner": null
+    },
+    {
+        "make": "Honda",
+        "model": "CR-V Hybrid Sport",
+        "year": 2025,
+        "price": 37245.50,
+        "color": "Urban Gray Pearl",
+        "features": [
+            "All-Wheel Drive",
+            "Hybrid",
+            "Blind Spot Information",
+            "Heated Seats"
+        ],
+        "is_hybrid": true,
+        "owner": null
+    },
+    {
+        "make": "Hyundai",
+        "model": "Tucson Limited Hybrid",
+        "year": 2026,
+        "price": 41210.00,
+        "color": "Amazon Gray Metallic",
+        "features": [
+            "All-Wheel Drive",
+            "Hybrid",
+            "Panoramic Sunroof",
+            "Smart Park Assist"
+        ],
+        "is_hybrid": true,
+        "owner": null
+    },
+    {
+        "make": "Lexus",
+        "model": "NX 350h Luxury",
+        "year": 2027,
+        "price": 52140.20,
+        "color": "Caviar",
+        "features": [
+            "All-Wheel Drive",
+            "Hybrid",
+            "Head-Up Display",
+            "Thematic Ambient Lighting"
+        ],
+        "is_hybrid": true,
+        "owner": null
+    }
+]

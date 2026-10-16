@@ -1,0 +1,76 @@
+<favorite_vehicles>
+    <vehicle>
+        <make>Toyota</make>
+	    <model>Corolla Hybrid</model>
+	    <year>2023</year>
+   	    <price>26999.99</price>
+     	<color>Arctic White</color>
+        <features>
+	        <feature>Toyota Safety Sense 3.0</feature> 
+			<feature>Hybrid</feature>
+			<feature>All-Wheel Drive</feature>
+        </features>
+		<is_hybrid>true</is_hybrid>
+		<owner></owner>
+	</vehicle>
+	<vehicle>
+	    <make>Ford</make>
+	    <model>Maverick Lariat Hybrid</model>
+	    <year>2026</year>
+	    <price>38999.99</price>
+	    <color>Azure Gray</color>
+	    <features>
+	        <feature>All-Wheel Drive</feature> 
+			<feature>Hybrid</feature> 
+			<feature>360-Degree Camera System</feature>
+			<feature>Adaptive Cruise Control</feature>
+        </features>
+		<is_hybrid>true</is_hybrid>
+		<owner></owner>
+	</vehicle>
+	<vehicle>
+		<make>Honda</make>        
+		<model>CR-V Hybrid Sport</model>
+	    <year>2025</year>
+	    <price>37245.50</price>
+	    <color>Urban Gray Pearl</color>
+	    <features>
+		    <feature>All-Wheel Drive</feature>
+			<feature>Hybrid</feature> 
+			<feature>Blind Spot Information</feature> 
+			<feature>Heated Seats</feature>
+	    </features>
+		<is_hybrid>true</is_hybrid>
+		<owner></owner>
+	</vehicle>
+	<vehicle>    
+		<make>Hyundai</make>
+	    <model>Tucson Limited Hybrid</model>
+	    <year>2026</year>
+	    <price>41210.00</price>
+	    <color>Amazon Gray Metallic</color>
+	    <features>
+            <feature>All-Wheel Drive</feature> 
+			<feature>Hybrid</feature> 
+			<feature>Panoramic Sunroof</feature> 
+			<feature>Smart Park Assist</feature>
+	    </features>
+		<is_hybrid>true</is_hybrid>
+		<owner></owner>
+	</vehicle>
+	<vehicle> 
+	    <make>Lexus</make>
+	    <model>NX 350h Luxury</model>
+	    <year>2027</year>
+	    <price>52140.20</price>
+	    <color>Caviar</color>
+	    <features>
+		    <feature>All-Wheel Drive</feature> 
+			<feature>Hybrid</feature> 
+			<feature>Head-Up Display</feature> 
+			<feature>Thematic Ambient Light</feature>
+	    </features>
+		<is_hybrid>true</is_hybrid>
+		<owner></owner>
+	</vehicle>
+</favorite_vehicles>
